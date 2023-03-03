@@ -1,6 +1,8 @@
-github.com/ichitabel/stratebi/.mockend.json
-{
-  "User": {
-    "title": { "string": {} }
-  }
-}
+    github.com/ichitabel/stratebi/.mockend.json 
+
+
+    {
+      "User": {
+        "title": { "string": {} }
+      }
+    }
