@@ -1,10 +1,9 @@
 {
-  "User":{
+  "Book": {
     "_": {
       "items": 10,
-      "data": [{ "title": "Title 1" }, { "title": "Title 2" }]
-    }
-  },
-  "title": { "loremWords": { "minLength": 5, "maxLength": 20 } },
-  "author": { "loremWord": {} }
+      "data": [{ "id": 10, "author": "Shakespeare" }]
+    },
+    "title": { "loremWords": { "minLength": 5, "maxLength": 20 } }
+  }
 }
